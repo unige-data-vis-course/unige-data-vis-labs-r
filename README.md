@@ -3,6 +3,9 @@
 Practical notebooks for the University of Geneva data visualisation course.
 Labs use [Gapminder](https://www.gapminder.org/data/) data and are written in **R Markdown** (`.rmd`).
 
+Contributors : 
+- Simon
+
 ## Repository layout
 
 ```
